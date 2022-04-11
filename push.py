@@ -59,5 +59,6 @@ for word in words:
                    words = my_str.split()
                    
                    # sort the list
+                   words.sort()
                    
               
