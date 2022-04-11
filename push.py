@@ -32,4 +32,7 @@ for word in words:
        print("The sorted words are:")
        for word in words:
               print(word)
+            # Program to sort alphabetically the words form a string provided by the user
+            
+            
               
