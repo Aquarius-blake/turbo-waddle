@@ -12,3 +12,5 @@ words.sort()
 # display the sorted words
 
 print("The sorted words are:")
+for word in words:
+       
