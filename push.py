@@ -61,4 +61,5 @@ for word in words:
 
                      # display the sorted words
 
+                     print("The sorted words are:")
                      
