@@ -42,4 +42,5 @@ for word in words:
 
               # sort the list
               words.sort()
+
               
