@@ -33,4 +33,5 @@ for word in words:
        for word in words:
               print(word)
 
+              my_str = "Hello this Is an Example With cased letters"
               
